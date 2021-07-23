@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <img src="/BannerTransparent.png" alt="banner" />-->
 
-### Hi there and welcome to my GitHub page 👋
+<!--### Hi there and welcome to my GitHub page 👋-->
 
 <!--My name is Aleks Popovic and I am a web developer from Belgrade, Serbia. I do a lot of things, and some of them you may even find interesting. 🤞-->
 
 ---
 
-### What do I do?
+<!--### What do I do?-->
 
 <!--<p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-### Send me a message!
+<!-- ### Send me a message!-->
 
 <!-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-- ### Github stats
+<!-- - ### Github stats -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?- - username=lhmongelos&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Luiz+Henrique's+GitHub+Stats&show_icons=true" />
 -->
