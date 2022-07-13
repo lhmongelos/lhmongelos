@@ -1,4 +1,4 @@
-### Olá a todos, sejam bem-vindos ao meu Github 👋
+<!--### Olá a todos, sejam bem-vindos ao meu Github 👋
 
 - 😀 Meu nome é Luiz Henrique, estou encerrando minha graduação em Sistemas de Informação pela UFMS.
 - 🔭 Tenho trabalhado com desenvolvimento Java, utilizando Java 8 no back-end e AngularJS no front-end. Para o banco de dados tenho utilizado MS SQL Server.
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<!--
+
 **lhmongelos/lhmongelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
